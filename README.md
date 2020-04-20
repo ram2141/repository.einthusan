@@ -1,4 +1,4 @@
-# EinTamil Kodi Repository [[https://ram2141.github.io/]](https://ram2141.github.io/)
+# Einthusan Kodi Repository [[https://ram2141.github.io/]](https://ram2141.github.io/)
 
 #### Enable Installation of add-ons from unknown sources:
 * Go to "System Settings" > "System" > "Add-ons"
