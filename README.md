@@ -14,7 +14,7 @@
 
 #### Steps to add repository:
 * Go to "System Settings" > "Addons" > "Install from zip file" > "Einthusan"
-* Install `https://ram2141.github.io/repository.einthusan-1.0.0.zip`
+* Install [repository.einthusan-1.0.0.zip](https://ram2141.github.io/repository.einthusan-1.0.0.zip)
 * Complete Add-on repository installation
 
 #### Steps to install add-on:
