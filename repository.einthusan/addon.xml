@@ -2,9 +2,9 @@
 <addon id="repository.einthusan" name="EinTamil Kodi Repository" version="1.0.0" provider-name="Einthusan">
     <extension point="xbmc.addon.repository" name="Einthusan Kodi Repository">
         <dir>
-            <info compressed="false">https://github.com/ram2141/repository.einthusan/blob/master/zips/addons.xml</info>
-            <checksum>https://github.com/ram2141/repository.einthusan/blob/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/ram2141/repository.einthusan/blob/master/zips/</datadir>
+            <info compressed="false">https://github.com/ram2141/repository.einthusan/raw/master/zips/addons.xml</info>
+            <checksum>https://github.com/ram2141/repository.einthusan/raw/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/ram2141/repository.einthusan/raw/master/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
