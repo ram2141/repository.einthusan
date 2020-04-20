@@ -42,7 +42,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>EinTamil Kodi Repository</summary>
+        <summary>Einthusan Kodi Repository</summary>
         <description>https://ram2141.github.io/</description>
         <website>https://ram2141.github.io/</website>
         <platform>all</platform>
